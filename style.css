@@ -16,7 +16,7 @@
 }
 
 html, body {
-    font-family: var(--system-font);
+    font-family: 'display';
     font-size: 20px;
     color: var(--system-text);
     -webkit-font-smoothing: antialiased;
@@ -29,7 +29,7 @@ html, body {
 }
 
 .user-text {
-    font-family: var(--system-font);
+    font-family: 'display';
     color: var(--system-text);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -37,7 +37,7 @@ html, body {
 }
 
 .folder-text {
-    font-family: var(--system-font);
+    font-family: 'display';
     color: var(--system-text);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -46,7 +46,7 @@ html, body {
 }
 
 .normal-text {
-    font-family: var(--system-font);
+    font-family: 'display';
     color: var(--system-text);
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -54,7 +54,7 @@ html, body {
 }
 
 .input-field {
-    font-family: var(--system-font);
+    font-family: 'display';
     font-size: 20px;
     color: var(--system-text);
     caret-color: var(--system-text);
