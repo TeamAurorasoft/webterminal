@@ -1,5 +1,5 @@
 :root {
-    --system-font: 'system';
+    --system-font: 'display';
     --system-bkgd: #000000;
     --system-text: #00aa00;
     --system-border: #00aa00;
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-    font-family: 'system';
+    font-family: 'display';
     src: url(https://github.com/TeamAurorasoft/webterminal/raw/main/AurorasoftTerminalPre-Alpha-Regular.ttf);
 }
 
